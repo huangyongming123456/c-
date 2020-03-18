@@ -1,0 +1,7 @@
+E:\桌面\2_8-master\2_8\2_8\bin\Debug\2_8.exe.config
+E:\桌面\2_8-master\2_8\2_8\bin\Debug\2_8.exe
+E:\桌面\2_8-master\2_8\2_8\bin\Debug\2_8.pdb
+E:\桌面\2_8-master\2_8\2_8\obj\Debug\2_8.csprojAssemblyReference.cache
+E:\桌面\2_8-master\2_8\2_8\obj\Debug\2_8.csproj.CoreCompileInputs.cache
+E:\桌面\2_8-master\2_8\2_8\obj\Debug\2_8.exe
+E:\桌面\2_8-master\2_8\2_8\obj\Debug\2_8.pdb
